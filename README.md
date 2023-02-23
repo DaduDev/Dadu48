@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dadu48
+- 👋 Hi, I’m @Dadudev
 - 👀 I’m interested in Developing all kind of Apps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on instagram
